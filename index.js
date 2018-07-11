@@ -7,7 +7,7 @@ function scuberGreetingForFeet(ride) {
   } else if (ride > 2500) {
     return 'No can do.'
   } else {
-    'eek.'
+    return 'eek.'
   }
 }
 
