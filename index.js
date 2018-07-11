@@ -19,4 +19,8 @@ function ternaryCheckCity(city) {
   }
 }
 
+function switchOnCharmFromTip() {
+  
+}
+
 console.log(scuberGreetingForFeet(2501))
