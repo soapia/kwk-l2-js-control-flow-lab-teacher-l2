@@ -19,8 +19,10 @@ function ternaryCheckCity(city) {
   }
 }
 
-function switchOnCharmFromTip() {
-  
+function switchOnCharmFromTip(tip) {
+  if (tip > 50) {
+    
+  }
 }
 
 console.log(scuberGreetingForFeet(2501))
