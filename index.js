@@ -11,4 +11,4 @@ function scuberGreetingForFeet(ride) {
   }
 }
 
-console.log(scuberGreetingForFeet(23))
+console.log(scuberGreetingForFeet(2501))
